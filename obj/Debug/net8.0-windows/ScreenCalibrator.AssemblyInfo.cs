@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreenCalibrator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50aae9208c6d5b0f3d3daa1acf8f4a185e8decad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c629d308e9d0dec865b486fb89b086113d6525a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreenCalibrator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreenCalibrator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
